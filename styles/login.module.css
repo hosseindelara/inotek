@@ -1,0 +1,12 @@
+.boxfrom {
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: column;
+
+}

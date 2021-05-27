@@ -1,0 +1,16 @@
+.form {
+    width: 100%;
+    height: 70px;
+    padding: 10px;
+    display: flex;
+    border: 1px solid gray;
+    background-color: white;
+}
+.input{
+    width: 90%;
+    direction: rtl;
+
+}
+.form>button{
+    transform: rotate(180deg);
+}
